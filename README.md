@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋, I'm Rajal
 
-<!--
-**rokadrajal/rokadrajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♀️ About Me
+- 👩‍💻 I am a passionate student learning programming
+- 🌱 Currently learning C++ and Web Development
+- 🎯 Goal: Become a Full Stack Developer
+- 💡 Interested in building creative websites
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- 💻 C++
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ Basic JavaScript
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=rokadrajal&show_icons=true)
+
+---
+
+## 🔥 Projects
+- 🚗 Car Management System (C++)
+- 🌐 Portfolio Website
+- 📦 Array Operations Program
+
+---
+
+## 📫 Contact Me
+- 📧 Email: your@email.com
+
+---
+
+## ✨ Fun Fact
+- 😄 I love coding and learning new things every day!
