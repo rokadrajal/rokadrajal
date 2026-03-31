@@ -1,37 +1,44 @@
-# Hi there 👋, I'm Rajal
 
-## 🙋‍♀️ About Me
-- 👩‍💻 I am a passionate student learning programming
-- 🌱 Currently learning C++ and Web Development
-- 🎯 Goal: Become a Full Stack Developer
-- 💡 Interested in building creative websites
+<h1 align="center">Hi 👋, I'm Rajal</h1>
+<h3 align="center">💻 Beginner Developer | Learning C++ & Web Development</h3>
 
 ---
 
-## 🚀 Skills
-- 💻 C++
-- 🌐 HTML
-- 🎨 CSS
-- ⚡ Basic JavaScript
+## 🙋‍♀️ About Me
+- 🌱 I’m currently learning **C++ & Web Development**
+- 🎯 My goal is to become a **Full Stack Developer**
+- 💡 I love creating simple and creative projects
+
+---
+
+## 🚀 Skills & Tools
+<p>
+  🔹 C++ <br>
+  🔹 HTML <br>
+  🔹 CSS <br>
+  🔹 JavaScript (Basic)
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=rokadrajal&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rokadrajal&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔥 Projects
-- 🚗 Car Management System (C++)
-- 🌐 Portfolio Website
-- 📦 Array Operations Program
+## 🔥 My Projects
+- 🚗 Car Management System  
+- 🌐 Portfolio Website  
+- 📦 Array Programs  
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: your@email.com
+## 📫 Connect with Me
+- 📧 Email: your@email.com  
 
 ---
 
-## ✨ Fun Fact
-- 😄 I love coding and learning new things every day!
+## ⚡ Fun Fact
+😄 I enjoy learning new coding skills every day!
