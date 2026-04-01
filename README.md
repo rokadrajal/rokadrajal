@@ -1,44 +1,26 @@
+# 👋 Hi, I'm Rajal
 
-<h1 align="center">Hi 👋, I'm Rajal</h1>
-<h3 align="center">💻 Beginner Developer | Learning C++ & Web Development</h3>
+## 🚀 About Me
+- 💻 I am a passionate developer
+- 🌱 Currently learning: C++, DSA, Web Development
+- 🎯 Goal: Become a Full Stack Developer
+- 📍 From: India
 
----
+## 🛠️ Skills
+- 💡 Languages: C, C++, JavaScript
+- 🌐 Web: HTML, CSS, Tailwind
+- 🧠 DSA: Arrays, Stack, Queue, Linked List
 
-## 🙋‍♀️ About Me
-- 🌱 I’m currently learning **C++ & Web Development**
-- 🎯 My goal is to become a **Full Stack Developer**
-- 💡 I love creating simple and creative projects
-
----
-
-## 🚀 Skills & Tools
-<p>
-  🔹 C++ <br>
-  🔹 HTML <br>
-  🔹 CSS <br>
-  🔹 JavaScript (Basic)
-</p>
-
----
+## 📂 Projects
+- 🔹 Project 1: [Project Name](link)
+- 🔹 Project 2: [Project Name](link)
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rokadrajal&show_icons=true&theme=tokyonight" />
-</p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
----
-
-## 🔥 My Projects
-- 🚗 Car Management System  
-- 🌐 Portfolio Website  
-- 📦 Array Programs  
-
----
-
-## 📫 Connect with Me
-- 📧 Email: your@email.com  
-
----
+## 🔗 Connect with Me
+- 📧 Email: rokadrajal@gmail.com
+- 💼 LinkedIn: Rajal Rokad 
 
 ## ⚡ Fun Fact
-😄 I enjoy learning new coding skills every day!
+- 😄 I love coding and solving problems!
