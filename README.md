@@ -13,7 +13,7 @@
 
 
 ## 📊 GitHub Stats
-[Github](https://github.com/rokadrajal)
+- Github: [Github](https://github.com/rokadrajal)
 
 ## 🔗 Connect with Me
 - 📧 Email: rokadrajal@gmail.com
