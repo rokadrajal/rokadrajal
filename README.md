@@ -11,12 +11,9 @@
 - 🌐 Web: HTML, CSS, Tailwind
 - 🧠 DSA: Arrays, Stack, Queue, Linked List
 
-## 📂 Projects
-- 🔹 Project 1: [Project Name](link)
-- 🔹 Project 2: [Project Name](link)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+[](https://github.com/rokadrajal)
 
 ## 🔗 Connect with Me
 - 📧 Email: rokadrajal@gmail.com
