@@ -17,7 +17,7 @@
 
 ## 🔗 Connect with Me
 - 📧 Email: rokadrajal@gmail.com
-- 💼 LinkedIn: Rajal Rokad 
+- 💼 LinkedIn: [Rajal Rokad](https://www.linkedin.com/in/rajal-rokad-99ba9a377/) 
 
 ## ⚡ Fun Fact
 - 😄 I love coding and solving problems!
