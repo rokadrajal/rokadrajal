@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 I am a Frontend Developer.
-- 🌱 Currently learning: HTML, CSS, JavaScript, React.js.
+- 🌱 Currently learning: HTML, CSS , Bootstrap , C , C++ , JavaScript, React.js.
 - 🎯 Goal: Become a skilled Frontend Developer.
 - 🎨 Interested in creating responsive and user-friendly websites.
 - 📍 From: India
