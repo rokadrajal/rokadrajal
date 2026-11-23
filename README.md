@@ -18,7 +18,7 @@
 - 🔗 GitHub: [Rajal Rokad](https://github.com/rokadrajal)
 
 ## 🔗 Connect with Me
-- 📧 Email: [rokadrajal@gmail.com](mailto:rokadrajal2975@gmail.com)
+- 📧 Email: [rokadrajal2975@gmail.com](mailto:rokadrajal2975@gmail.com)
 - 💼 LinkedIn: [Rajal Rokad](https://www.linkedin.com/in/rajal-rokad-99ba9a377/)
 
 ## ⚡ Fun Fact
